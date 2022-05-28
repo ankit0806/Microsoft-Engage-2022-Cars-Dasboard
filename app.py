@@ -5,7 +5,7 @@ import seaborn as sns
 import plotly.express as px
 from sklearn.cluster import KMeans
 
-st.set_page_config(page_title="Cars Dashboard", layout="wide")
+st.set_page_config(page_title="Cars Dashboard", page_icon=":oncoming_automobile:", layout="wide")
 
 
 def main():
@@ -27,7 +27,7 @@ def main():
     df = get_data()
 
     # Main Page
-    st.title(" Dashboard ")
+    st.title(" :oncoming_automobile: Dashboard ")
     st.markdown("""___""")
 
     left_column, right_column = st.columns([1, 3])
