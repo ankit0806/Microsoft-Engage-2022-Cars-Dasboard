@@ -7,6 +7,5 @@ Next, install the required Python libraries as mentioned in requirements.txt fil
 
 Now, just clone the repository and run the following commands in inside the project repository in the terminal:
 
-$ streamlit run app.py
+'streamlit run app.py'
 
-streamlit run app.py
