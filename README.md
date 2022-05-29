@@ -16,7 +16,7 @@ After following above steps your terminal should look like this:
 # Deployed Version
 https://cars-analysis-dashboard.herokuapp.com/
 
-### Note: For better experience, please run on local machine as the app runs much faster.
+### Note: For better experience, run on local machine as the app runs much faster.
 
 # Video Demo
 https://youtu.be/tYpmMXtpntI
