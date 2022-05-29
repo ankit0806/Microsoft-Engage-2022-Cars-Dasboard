@@ -15,3 +15,5 @@ After following above steps your terminal should look like this:
 
 # Deployed Version
 https://cars-analysis-dashboard.herokuapp.com/
+
+# Video Demo
