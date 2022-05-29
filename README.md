@@ -9,3 +9,6 @@ Now, just clone the repository and run the following commands in inside the proj
 
 `streamlit run app.py`
 
+After following above steps your terminal should look like this:
+
+![git_microsoft](https://user-images.githubusercontent.com/76600178/170869514-da35443d-37c7-4f5c-9728-d82be121239e.png)
