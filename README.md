@@ -9,3 +9,4 @@ Now, just clone the repository and run the following commands in inside the proj
 
 $ streamlit run app.py
 
+streamlit run app.py
