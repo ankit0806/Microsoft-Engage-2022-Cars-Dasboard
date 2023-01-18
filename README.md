@@ -14,7 +14,7 @@ After following above steps your terminal should look like this:
 ![git_microsoft](https://user-images.githubusercontent.com/76600178/170869514-da35443d-37c7-4f5c-9728-d82be121239e.png)
 
 # Deployed Version
-https://cars-analysis-dashboard.herokuapp.com/
+https://ankit0806-microsoft-engage-2022-cars-dashboard-app-1700f8.streamlit.app/
 
 ### Note: For better experience, run on local machine as the app runs much faster.
 
