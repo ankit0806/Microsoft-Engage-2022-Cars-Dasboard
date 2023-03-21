@@ -40,7 +40,7 @@ def main():
         else:
             st.write("Awaiting CSV file to be uploaded")
 
-    if choice == 'Data Exploration':
+    if choice == 'Data Exploration' and uploaded_file is not None:
         left_column.subheader("Explore Your Data")
         right_column.subheader("Values Obtained")
         if left_column.checkbox("Show Shape"):
