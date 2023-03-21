@@ -71,7 +71,7 @@ def main():
             sns.heatmap(df.corr(), ax=ax)
             right_column.write(fig)
 
-    elif choice == 'Data Visualization':
+    elif choice == 'Data Visualization' and uploaded_file is not None:
         left_column.subheader("Select kind of Graph")
         right_column.subheader("Plot Visualization")
         if uploaded_file is not None:
@@ -151,7 +151,7 @@ def main():
                     if left_column.button("Generate Plot"):
                         right_column.write(fig)
 
-    elif choice == 'Predict Clusters':
+    elif choice == 'Predict Clusters' and uploaded_file is not None:
         left_column.subheader("Analyze different Clusters")
         right_column.subheader("Cluster Info")
         with right_column:
